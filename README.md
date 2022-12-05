@@ -6,7 +6,7 @@ This Project is about how to store the data into a cloud database from the dataf
 - I used psycopg2 adapter to connect to the postgre AWS Database.
 - I then uploaded the values returing from the API into the database and have also written a function to update it whenever new videos or changes to the existing videos are made in the youtube channel.
 
-- The images can be viwed in the DB_images Folder of the Databse and it updates.
+- The images can be viewed in the DB_images Folder of the Databse and it updates.
 - Img1 - The DataFrame
 - Img2 - The Old Dataframe Video Details in the Database
 - Img3 - The New Uploaded videos in the channel, which are then reflecting in the Database as well.
